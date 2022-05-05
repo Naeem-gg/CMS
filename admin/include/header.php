@@ -6,8 +6,9 @@
 				</a>
 
 			  	<a class="brand" href="index.html">
-			  		CMS | Admin
+			  		CMS | Admin  
 			  	</a>
+				  
 
 				<div class="nav-collapse collapse navbar-inverse-collapse">
 					<ul class="nav pull-right">
@@ -21,6 +22,7 @@
 							</a>
 							<ul class="dropdown-menu">
 								<li><a href="change-password.php">Change Password</a></li>
+								<li><a href="add.php">Add another administrator</a></li>
 								<li class="divider"></li>
 								<li><a href="logout.php">Logout</a></li>
 							</ul>
